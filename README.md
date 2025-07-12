@@ -53,10 +53,8 @@
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
-- [GitHub](https://github.com/YOUR_USERNAME)
-- [Twitter](https://twitter.com/YOUR_HANDLE) (if any)
-
+- [LinkedIn]((https://www.linkedin.com/in/mirmominmirekhaas/))
+- [GitHub](https://github.com/miirekhaas)
 ---
 
 <p align="center">
