@@ -53,10 +53,10 @@
 
 ### 📫 Connect with Me
 
-- [LinkedIn]((https://www.linkedin.com/in/mirmominmirekhaas/))
+- [LinkedIn](https://www.linkedin.com/in/mirmominmirekhaas/)
 - [GitHub](https://github.com/miirekhaas)
 ---
 
 <p align="center">
-  Built with ❤️ by Mir aka cute's daddy 🔥😏
+  Built with by Mir
 </p>
